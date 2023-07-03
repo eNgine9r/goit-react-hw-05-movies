@@ -35,7 +35,6 @@ export default function Searchbar({ onSubmit }) {
         className={css.searchInput}
       />
       <button type="submit" className={css.button}>
-        Search
       </button>
     </form>
   );
